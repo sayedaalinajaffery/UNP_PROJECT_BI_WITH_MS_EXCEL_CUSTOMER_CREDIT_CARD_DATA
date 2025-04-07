@@ -1,1 +1,1 @@
-# UNP_PROJECT_BI_WITH_MS_EXCEL_CUSTOMER_CREDIT_CARD_DATA
+Analysis credir card applicants data and creating dashboard with excel. Conducting data processing and defining KPIs for data analysis using excel functions. Creating dashboards for interpretation. Tools used: Sorting, Filtering, Conditional formatting, VLOOKUP, XLOOKUP, HLOOKUP, advanced text function, Pivot tables, Slicers etc.,
