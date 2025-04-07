@@ -1,1 +1,2 @@
 Analysis credir card applicants data and creating dashboard with excel. Conducting data processing and defining KPIs for data analysis using excel functions. Creating dashboards for interpretation. Tools used: Sorting, Filtering, Conditional formatting, VLOOKUP, XLOOKUP, HLOOKUP, advanced text function, Pivot tables, Slicers etc.,
+My Excel file: https://docs.google.com/spreadsheets/d/12xX8xg_hoa2o4ZS4SHhQrkkYfnNOPuva/edit?usp=sharing&ouid=103384303568784391766&rtpof=true&sd=true
